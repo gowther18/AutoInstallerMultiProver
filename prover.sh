@@ -1,3 +1,11 @@
+echo "   #######   "
+echo "  ##     ##  "
+echo " ##          "
+echo " ##   #####  "
+echo " ##     ##   "
+echo "  ##     ##  "
+echo "   #######   "
+
 # ========================================
 #  Made BY GOWTHERNODE
 #  Join My Channel https://t.me/airdropforgeindonesia
