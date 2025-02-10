@@ -16,7 +16,7 @@ echo "   #######   "
 set -e
 
 echo "Installing required packages..."
-sudo apt update && sudo apt install -y curl supervisor nano
+sudo apt install -y curl supervisor nano
 
 # Prompt user for EVM-based reward address
 echo "Enter your EVM-based reward address (0x...):"
